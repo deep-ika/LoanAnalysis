@@ -18,8 +18,11 @@ This project focuses on **cleaning, analyzing, and amortizing mortgage loan data
 ## 📈 Dashboard Preview
 
 - **Loan Status**
+  
    ![dashboardmortgage](https://github.com/user-attachments/assets/068aa414-1410-4cbc-8403-69f99779e19f)
+  
 - **Loan Balance**
+  
     ![dashboardmortgage1](https://github.com/user-attachments/assets/adc78bb5-1b6b-4295-996a-62d6a809790f)
 
 
