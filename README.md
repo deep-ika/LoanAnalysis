@@ -26,10 +26,9 @@ This project focuses on **cleaning, analyzing, and amortizing mortgage loan data
 
 ## 🔧 How to Use
 
-1. **Clone the repository**
-  
-2. **Open the MortgageAnalysis.pbix file** in Power BI Desktop.
-3. **Connect to your dataset** if needed.
+1. **Open the blank report** in Power BI Desktop.
+2. **Connect to your dataset** .
+3. **Use various charts and graphs to visualize the data**
 4. **Explore the dashboard insights**
 
 ## 📉 Use Cases
